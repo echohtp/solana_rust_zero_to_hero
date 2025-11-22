@@ -1,0 +1,1 @@
+/Users/jason/Documents/code/solana_zero_to_hero/project-11-oracle/price_oracle/target/sbpf-solana-solana/release/libbtc_oracle.rlib: /Users/jason/Documents/code/solana_zero_to_hero/project-11-oracle/price_oracle/programs/btc_oracle/src/lib.rs

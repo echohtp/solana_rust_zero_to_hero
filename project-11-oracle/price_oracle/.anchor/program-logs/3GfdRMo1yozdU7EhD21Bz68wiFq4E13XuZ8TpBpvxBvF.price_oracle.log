@@ -1,0 +1,355 @@
+Streaming transaction logs mentioning 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF. Confirmed commitment
+Transaction executed in slot 4:
+  Signature: 3r2anxbRC2FRu8MLu5UVHNPK1KaqxwB9pgLLuEMu1eyUkXUMs1M9fNvJJtkSYXAMvTiz4FP5g5QMngaLSUqB42Vt
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: InitializeOracle
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Oracle initialized by: J6a9qhcSxvQKpD2UrEs7K5573SUfhWUFLm9LaaZynuVf
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 11120 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 4:
+  Signature: 4ed1XbwmWKtXRMT9Hson6RstrzV3aDkgX9vqDqnSEekToFVvLWxVGo1VxCVNVMY9Sf7eSevc3KijFtWKBxRShZqN
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: CreateFeed
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Created feed 'BTC_USD' with ID: 0
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 13244 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 5:
+  Signature: 4ed1XbwmWKtXRMT9Hson6RstrzV3aDkgX9vqDqnSEekToFVvLWxVGo1VxCVNVMY9Sf7eSevc3KijFtWKBxRShZqN
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: CreateFeed
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Created feed 'BTC_USD' with ID: 0
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 13244 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 6:
+  Signature: 3CzkBk9W37YeeJNHgTAvEP8rdE8uJaHg4iobJa62w1YkLQsZN9oap6o5tdyCfDD7aNDsB2QbfUb9w5yGqt3su8ST
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: CreateFeed
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Created feed 'ETH_USD' with ID: 1
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 13264 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 6:
+  Signature: 2ijpX7MMPCz3kvW6GtrhpnXr5b9tNhar6snzxYaopa6TFEXsBXj7tscofCZRyKqHUDZdd9jvJzUqz1Sj3qhaHfU1
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: CreateFeed
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Created feed 'SOL_USD' with ID: 2
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 14724 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 7:
+  Signature: 2ijpX7MMPCz3kvW6GtrhpnXr5b9tNhar6snzxYaopa6TFEXsBXj7tscofCZRyKqHUDZdd9jvJzUqz1Sj3qhaHfU1
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: CreateFeed
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Created feed 'SOL_USD' with ID: 2
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 14724 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 8:
+  Signature: 3gZXCeaWPLXiKR81oxX2EJXxrELWyPP8B3KZF17EsJESXb4YBxfdNBbC3kWnjTLSCDWCDTYdAPBjkaPf8zo7qcjq
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'BTC_USD' to value: 95000
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3348 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 9:
+  Signature: 3hEcqtNLf8ayyidcnysnGXPo4T6vJzMM1tbsoS68WHR2aLd69THouNuGfNwxXs6F7PjWygV7uB3Fvk6RnLcVfMnp
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'ETH_USD' to value: 3500
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3352 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 9:
+  Signature: 62QoU3XyHPtkRuXgti7s6dArFt9VkhzGiSMeRtWLF91S3Q7uL6nyNms3zb3A43bMDFWyV1nnpJUQb3gwCbPP2jDe
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'SOL_USD' to value: 240
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3320 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 10:
+  Signature: 62QoU3XyHPtkRuXgti7s6dArFt9VkhzGiSMeRtWLF91S3Q7uL6nyNms3zb3A43bMDFWyV1nnpJUQb3gwCbPP2jDe
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'SOL_USD' to value: 240
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3320 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 10:
+  Signature: 1111111111111111111111111111111111111111111111111111111111111111
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: GetFeedValue
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 1849 of 200000 compute units
+    Program return: 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF GHMBAAAAAAA=
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 10:
+  Signature: 1111111111111111111111111111111111111111111111111111111111111111
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: GetFeedValue
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 1863 of 200000 compute units
+    Program return: 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF rA0AAAAAAAA=
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 10:
+  Signature: 1111111111111111111111111111111111111111111111111111111111111111
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: GetFeedValue
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 1835 of 200000 compute units
+    Program return: 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF 8AAAAAAAAAA=
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 10:
+  Signature: 1111111111111111111111111111111111111111111111111111111111111111
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: GetFeedInfo
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 1906 of 200000 compute units
+    Program return: 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF AAAAAAcAAABCVENfVVNEFAAAAEJpdGNvaW4gcHJpY2UgaW4gVVNEGHMBAAAAAAAOISFpAAAAAAEAAAAAAAAAAQ==
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 10:
+  Signature: 1111111111111111111111111111111111111111111111111111111111111111
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: GetFeedInfo
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 1920 of 200000 compute units
+    Program return: 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF AQAAAAcAAABFVEhfVVNEFQAAAEV0aGVyZXVtIHByaWNlIGluIFVTRKwNAAAAAAAADiEhaQAAAAABAAAAAAAAAAE=
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 10:
+  Signature: 1111111111111111111111111111111111111111111111111111111111111111
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: GetFeedInfo
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 1892 of 200000 compute units
+    Program return: 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF AgAAAAcAAABTT0xfVVNEEwAAAFNvbGFuYSBwcmljZSBpbiBVU0TwAAAAAAAAAA8hIWkAAAAAAQAAAAAAAAAB
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 10:
+  Signature: 1111111111111111111111111111111111111111111111111111111111111111
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: GetOracleInfo
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 4057 of 200000 compute units
+    Program return: 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF /gQRPTnw76+RguG8AOwLprNBCYm4MnZ78Ocx5LK0DhYDAAAA
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 10:
+  Signature: 4hfWazFdPKK98iVEef5QP8mVFD6m8ppdgY15rGMFTux7CXYxXBzBLzsw18ZYWfpgK85cUmALZUhc3ddMEULwahbK
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: ToggleFeedStatus
+    Program log: Feed 'ETH_USD' status changed to: inactive
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3087 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 11:
+  Signature: 4hfWazFdPKK98iVEef5QP8mVFD6m8ppdgY15rGMFTux7CXYxXBzBLzsw18ZYWfpgK85cUmALZUhc3ddMEULwahbK
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: ToggleFeedStatus
+    Program log: Feed 'ETH_USD' status changed to: inactive
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3087 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 11:
+  Signature: 1111111111111111111111111111111111111111111111111111111111111111
+  Status: Error processing Instruction 0: custom program error: 0x1772
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: GetFeedValue
+    Program log: AnchorError thrown in programs/price_oracle/src/lib.rs:66. Error Code: FeedInactive. Error Number: 6002. Error Message: Feed is not active..
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 2933 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF failed: custom program error: 0x1772
+Transaction executed in slot 11:
+  Signature: 3HXHmmzbot8B548jt3W29jYsnQBxf34VgHPK7Ma1qmnQrGZT7YP5yGeUZ22vK8GCFewq2TY4F4CCEsLct921CtmA
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: ToggleFeedStatus
+    Program log: Feed 'ETH_USD' status changed to: active
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3088 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 12:
+  Signature: 3HXHmmzbot8B548jt3W29jYsnQBxf34VgHPK7Ma1qmnQrGZT7YP5yGeUZ22vK8GCFewq2TY4F4CCEsLct921CtmA
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: ToggleFeedStatus
+    Program log: Feed 'ETH_USD' status changed to: active
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3088 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 13:
+  Signature: 3FKT3C6oAjiCQ8774Y4Sj7mhUcJcnEj1fN6pFo4c9KBRoyMCHUc9koNSgj5SVbZ8FiUN3NPxQzqun3uWWGVJcTzj
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeedMetadata
+    Program log: Updated metadata for feed 'SOL_USD'
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3537 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 14:
+  Signature: 4hcRkNTWGS2L6xMxBn4kjsKxJvnT5Mc5xy3mWpENFekyKCuMPiLnuTHuG3Ti55XA1JdFAYsjHY6cXGpyP91aS7rQ
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'BTC_USD' to value: 98000
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3348 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 14:
+  Signature: 4hmkdPU1UcZ3vg2Zc9CKaHwVNXESY9vp8K2xE56j1HuK2L1LvFSARZRTpSrxD3VvTq7JtQ4bc7f1DScv6bQRGbv5
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'ETH_USD' to value: 3650
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3352 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 15:
+  Signature: 4hmkdPU1UcZ3vg2Zc9CKaHwVNXESY9vp8K2xE56j1HuK2L1LvFSARZRTpSrxD3VvTq7JtQ4bc7f1DScv6bQRGbv5
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'ETH_USD' to value: 3650
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3352 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 15:
+  Signature: 2aZP6GMkWaZuQjioXj5j2gghqAH8pYo6buGbktKEbBMBu1cDnvfjvTfPbAMidMe51C4yd5Cxr7YTAmgxMrwFkDbL
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'SOL_USD' to value: 255
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3430 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 16:
+  Signature: 2aZP6GMkWaZuQjioXj5j2gghqAH8pYo6buGbktKEbBMBu1cDnvfjvTfPbAMidMe51C4yd5Cxr7YTAmgxMrwFkDbL
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'SOL_USD' to value: 255
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3430 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 17:
+  Signature: 5JxEremKp3o4VEX3UFwA2vFx2NADDNzX6vkRefAnTUFWACr1jbY1CGMSAv9AzsUc48jZCLMoc91UEPDafHKBbrut
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'BTC_USD' to value: 92000
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3348 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 18:
+  Signature: 3fGB3BgRcyNMAqBNX9UPpJr5Rjss5bpVw8QvhoYq4JKqqUvMG98trNwtNWhFZeMpBks3nWZEkLuMRu41ptST1ts1
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'ETH_USD' to value: 3420
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3352 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 18:
+  Signature: 5sovjj8EaiEcwXq8jw3vG8Wrgu1x763H5TyBnuryeKSEnK2Mdp55Mwyqmc7yUugCYKURoyaCpEg4dYrzbsVPgnhe
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'SOL_USD' to value: 235
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3430 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 19:
+  Signature: 5sovjj8EaiEcwXq8jw3vG8Wrgu1x763H5TyBnuryeKSEnK2Mdp55Mwyqmc7yUugCYKURoyaCpEg4dYrzbsVPgnhe
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'SOL_USD' to value: 235
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3430 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 19:
+  Signature: 4aUs2nTNbA2VD7iQkgqjAJ1CsEJxrem3q99SbukckcZmrvSuTMzhTQ6hivst7ENkYt5f3A2JXeDYdTxFLdeGsmGR
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'BTC_USD' to value: 97500
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3348 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 20:
+  Signature: 4aUs2nTNbA2VD7iQkgqjAJ1CsEJxrem3q99SbukckcZmrvSuTMzhTQ6hivst7ENkYt5f3A2JXeDYdTxFLdeGsmGR
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'BTC_USD' to value: 97500
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3348 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 20:
+  Signature: 5wUdVBA3yQKP9uhzf7CBW5ejz4vDMBFtN9CXNNSEFQpduvMGJjJJLyTRtSxzwUw6smk1v83P81XrGsFdnnJJafK9
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'ETH_USD' to value: 3580
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3352 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 21:
+  Signature: 5wUdVBA3yQKP9uhzf7CBW5ejz4vDMBFtN9CXNNSEFQpduvMGJjJJLyTRtSxzwUw6smk1v83P81XrGsFdnnJJafK9
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'ETH_USD' to value: 3580
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3352 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 21:
+  Signature: 5Q5c3JvFkwjBvbiMoQDnTTriBh4a8m1L95RckiBme4pMYFsQwapw1eG8Vdia2rbXGHXnY51oPfmET4nSVtTbREwT
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'SOL_USD' to value: 248
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3430 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
+Transaction executed in slot 22:
+  Signature: 5Q5c3JvFkwjBvbiMoQDnTTriBh4a8m1L95RckiBme4pMYFsQwapw1eG8Vdia2rbXGHXnY51oPfmET4nSVtTbREwT
+  Status: Ok
+  Log Messages:
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF invoke [1]
+    Program log: Instruction: UpdateFeed
+    Program log: Updated feed 'SOL_USD' to value: 248
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF consumed 3430 of 200000 compute units
+    Program 3GfdRMo1yozdU7EhD21Bz68wiFq4E13XuZ8TpBpvxBvF success
