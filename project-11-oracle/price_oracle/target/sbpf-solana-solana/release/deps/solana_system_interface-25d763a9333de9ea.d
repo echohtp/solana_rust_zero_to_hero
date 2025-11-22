@@ -1,9 +1,0 @@
-/Users/jason/Documents/code/solana_zero_to_hero/project-11-oracle/price_oracle/target/sbpf-solana-solana/release/deps/libsolana_system_interface-25d763a9333de9ea.rmeta: /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
-
-/Users/jason/Documents/code/solana_zero_to_hero/project-11-oracle/price_oracle/target/sbpf-solana-solana/release/deps/libsolana_system_interface-25d763a9333de9ea.rlib: /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
-
-/Users/jason/Documents/code/solana_zero_to_hero/project-11-oracle/price_oracle/target/sbpf-solana-solana/release/deps/solana_system_interface-25d763a9333de9ea.d: /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
-
-/Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs:
-/Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs:
-/Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs:
